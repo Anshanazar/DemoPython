@@ -1,0 +1,15 @@
+.banner{
+        background-color: Indigo;
+        width: 100%;
+        height: 200px;
+        margin-bottom: 50px;
+       }
+.banner-text{
+            font-style:italic;
+            top:5%;
+            left:40%;
+            position: absolute;
+            transform: transform;
+            color: White;
+            }
+
